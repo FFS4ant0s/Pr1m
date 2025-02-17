@@ -1,1 +1,1 @@
-Esse projeto estãum exemplo de como usar teste Unitarios com python.
+Esse projeto estão um exemplo de como usar teste Unitarios com python.
